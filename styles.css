@@ -1,9 +1,12 @@
 
-body, h1, h2, p, ul, li {
+body, p, ul, li {
     margin: 0;
     padding: 0;
 }
-
+h1, h2{
+    color:red;
+    text-align:center;
+}
 
 html {
     height: 100%;
