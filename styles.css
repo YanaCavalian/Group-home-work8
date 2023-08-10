@@ -98,9 +98,11 @@ img:hover {
 
 footer {
     text-align: center;
-    padding: 30px;
+    min-width: 900px;
+    padding: 20px;
     background-color: #c2b0ed;
     margin-top: auto;
+    border-radius: 5px;
 }
 span{
     font-size: 24px;
