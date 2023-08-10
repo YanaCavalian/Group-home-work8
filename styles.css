@@ -64,3 +64,8 @@ footer {
     background-color: #c2b0ed;
     margin-top: auto;
 }
+span{
+    font-size: 24px;
+    text-align: center;
+    color: aqua;
+}
