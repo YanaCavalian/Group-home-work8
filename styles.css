@@ -47,6 +47,7 @@ nav a {
     color: rgb(149, 230, 168);
 }
 
+
 main {
     padding: 20px;
 }
@@ -57,6 +58,19 @@ section {
     border: 1px solid #ce3131;
     border-radius: 5px;
 }
+.icon{
+    margin: 20px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 250px;
+    border-radius: 50%;
+}
+img:hover {
+    transform: scale(1.2);
+  }
 
 footer {
     text-align: center;
