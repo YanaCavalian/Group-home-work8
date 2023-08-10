@@ -69,3 +69,9 @@ span{
     text-align: center;
     color: aqua;
 }
+.mesange{
+    position: absolute;
+    left: calc(50% - 100px);
+    top: 260px;
+    text-shadow: 2px 2px 5px #9557df;
+}

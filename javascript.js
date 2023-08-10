@@ -1,4 +1,4 @@
 
 span = document.querySelector('span');
-span.style.color="red";
-setTimeout(() => { document.querySelector('span').innerHTML = "I am here";}, 4000);
+span.style.color="blue";
+setTimeout(() => { document.querySelector('span').innerHTML = "This site is the best";}, 4000);
